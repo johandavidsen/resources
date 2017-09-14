@@ -1,0 +1,50 @@
+[
+  { 
+    "name": "Building a Simple Notes Manager with Vue.js",
+    "link": "https://blog.codeship.com/building-a-simple-notes-manager-with-vue-js/",
+    "description": "",
+    "accessed": "2017-09-14",
+    "source": "blog.codeship.com",
+    "notes": "",
+    "category": [
+      "tutorial"
+    ]
+  },
+  {
+    "name": "Netlify builds, deploys, and hosts your front end.",
+    "link": "https://www.netlify.com/docs/identity/",
+    "description": "",
+    "accessed": "2017-09-14",
+    "source": "www.netlify.com",
+    "notes: "",
+    "category": [
+      "tutorial",
+      "idea"
+    ]
+  },
+  {
+    "name": "Netlify builds, deploys, and hosts your front end.",
+    "link": "https://www.netlify.com/docs/git-gateway/",
+    "description": "",
+    "accessed": "2017-09-14",
+    "source": "www.netlify.com",
+    "notes: "",
+    "category": [
+      "tutorial",
+      "idea"
+    ]
+  },
+  {
+    "name": "Find your next JavaScript conference",
+    "link": "https://confs.tech/",
+    "description": "",
+    "accessed": "2017-09-14",
+    "source": "",
+    "notes": "",
+    "category": [
+      "JavaScript",
+      "Frontend",
+      "Conferences"
+    ]
+  }
+]
