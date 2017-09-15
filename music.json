@@ -1,6 +1,10 @@
 [
     {
-        'name': 'Another Love',
-        'Artist': 'Tom Odell' 
+        "name": "Another Love",
+        "artist": "Tom Odell" 
+    },
+    {   
+        "name": "Wasn't Expecting That",
+        "artist": "Jamie Lawson"
     }
 ]
