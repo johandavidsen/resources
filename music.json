@@ -27,8 +27,13 @@
         "youtube": "https://www.youtube.com/watch?v=FxmDMqc15Ak"
     },
     {
-        "name": "Hos Dig Är Jag Underbar",
+        "name": "Hos dig Är jag underbar",
         "artist": "Patrik Isaksson",
         "youtube": "https://youtu.be/9vN8kodI0AQ"
+    },
+    {
+        "name": "Händerna mot Himlen",
+        "artist": "Petra Marklund",
+        "youtube": "https://youtu.be/rmfZQpB2-9M"
     }
 ]
